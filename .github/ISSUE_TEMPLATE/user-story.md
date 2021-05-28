@@ -1,7 +1,7 @@
 ---
 name: User Story
-about: B&B
-title: B&B
+about: 'User Story: Internet-shop'
+title: ''
 labels: ТРПО
 assignees: TumelliYN
 
