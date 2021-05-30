@@ -2,7 +2,7 @@
 name: User Story
 about: User Story it should look like this
 title: ''
-labels: ТРПО
+labels: User Story
 assignees: TumelliYN
 
 ---
